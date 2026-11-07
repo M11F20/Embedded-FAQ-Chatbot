@@ -3,7 +3,6 @@
 A lightweight educational chatbot that answers common **Embedded Systems** questions using curated Q&A content and natural conversation. Built with **Flask** and the **OpenAI API** for simple, local deployment.
 
 ---
-
 ## ✨ Features
 
 * Conversational FAQ for Embedded Systems topics
