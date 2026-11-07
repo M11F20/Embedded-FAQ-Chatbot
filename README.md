@@ -45,7 +45,7 @@ embedded-faq-chatbot/
 ### 1) Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/M11F20/Embedded-FAQ-Chatbot>
 cd embedded-faq-chatbot
 ```
 
